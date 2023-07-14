@@ -1,0 +1,17 @@
+{
+    "name": "my-supabase-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@supabase/supabase-js": "^1.28.5"
+    }
+  }
+  
